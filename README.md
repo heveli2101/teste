@@ -17,10 +17,11 @@ Meu nome é Heveli Aquino Morais, sou estudante de Graduação em Análise e Des
   
 ## Projetos do Curso
 
-Aqui serão adicionados os projetos, atividades práticas e trabalhos desenvolvidos durante o curso.
-
-- Em breve, novos projetos serão adicionados.
-
+- [Projeto 1 - Lógica de Programação](#)
+- [Projeto 2 - Estrutura de Dados](#)
+- [Projeto 3 - Desenvolvimento de Sistemas](#)
+- [Projeto 4 - Arquitetura de Computadores](#)
+  
 ## Contato
 
 - E-mail: heveliaquino2101@email.com
